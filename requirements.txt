@@ -1,0 +1,14 @@
+ pandas==3.0.3
+numpy==2.4.6
+scikit-learn
+matplotlib==3.10.9
+seaborn==0.13.2
+streamlit==1.57.0
+joblib
+shap==0.52.0
+xgboost==3.2.0
+openpyxl
+xlrd
+sqlite3
+ipykernel
+jupyter
