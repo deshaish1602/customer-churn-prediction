@@ -204,6 +204,7 @@ streamlit run streamlit_app/app.py
 
 ## 📬 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your linkedin](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/deshaish1602)
+  
+ 
  
