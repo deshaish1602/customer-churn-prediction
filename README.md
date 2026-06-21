@@ -20,10 +20,15 @@ This project builds a complete **end-to-end ML system** to:
 - Recommend retention strategies
 
 ---
+LIVE DEMO
+https://customer-churn-prediction-ltyxn3lqbrhqgt9thaxggg.streamlit.app
+
+---
+
 
 ## 📁 Project Structure
 customer-churn-prediction/
-
+""
 │
 
 ├── data/
@@ -94,6 +99,7 @@ customer-churn-prediction/
 | InternetService | Type of internet service |
 | PaymentMethod | How customer pays |
 | Churn | Whether customer left |
+""
 
 ---
 
