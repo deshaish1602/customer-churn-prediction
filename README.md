@@ -1,4 +1,4 @@
- # 📊 Customer Churn Prediction & Retention Analytics System
+ # ChurnGuard : Know who's leaving before they do
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Sklearn](https://img.shields.io/badge/Scikit--Learn-1.0-orange)
@@ -20,6 +20,7 @@ This project builds a complete **end-to-end ML system** to:
 - Recommend retention strategies
 
 ---
+
 LIVE DEMO
 https://customer-churn-prediction-ltyxn3lqbrhqgt9thaxggg.streamlit.app
 
@@ -27,6 +28,7 @@ https://customer-churn-prediction-ltyxn3lqbrhqgt9thaxggg.streamlit.app
 
 
 ## 📁 Project Structure
+```
 customer-churn-prediction/
 ""
 │
@@ -80,6 +82,7 @@ customer-churn-prediction/
 │
 
 └── README.md
+```
 
 ---
 
@@ -168,34 +171,6 @@ Data Loading → Cleaning → EDA → SQL Analysis → ML Models → Business In
 
 ---
 
-## ⚙️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/customer-churn-prediction.git
-
-# Go into the folder
-cd customer-churn-prediction
-
-# Create virtual environment
-python3 -m venv venv
-source venv/bin/activate
-
-# Install packages
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 Run the Project
-
-```bash
-# Run Streamlit app
-streamlit run streamlit_app/app.py
-```
-
----
-
 ## 📈 Results Summary
 
 - ✅ Cleaned and analyzed **7,043 customer records**
@@ -210,7 +185,7 @@ streamlit run streamlit_app/app.py
 
 ## 📬 Contact
 
-- GitHub: [@yourusername](https://github.com/deshaish1602)
+- GitHub: [@deshaish1602](https://github.com/deshaish1602)
   
  
  
